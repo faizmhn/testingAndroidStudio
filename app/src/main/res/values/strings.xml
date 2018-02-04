@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cobamakan</string>
+    <string name="text_judul">Makan Malam</string>
+    <string name="text_Milea">dengan Milea</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="menu_makanan">Menu Makanan</string>
+    <string name="porsi_makanan">Porsi Makanan</string>
+</resources>
